@@ -116,5 +116,3 @@ dependencies:
   - jupyter-console==5.1.0
   - jupyter-core==4.3.0
   - prompt-toolkit==1.0.15
-prefix: /home/asaez/miniconda3/envs/ceppe-promo
-
